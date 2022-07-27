@@ -178,6 +178,10 @@ footer a:hover{
     .header-content {
         padding: 40px;
     }
+    
+    .header-content h1 {
+        padding-bottom: 20px;
+    }
 
     .top-article {
         padding-top: 15px;
