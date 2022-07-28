@@ -195,6 +195,10 @@ footer a:hover{
 }
 
 @media (max-width: 450px) {
+    
+    .header-content {
+        padding: 15px;
+    }
     .article-content h1 {
         font-size: 1.4em;
         padding-right: 5px;
